@@ -2,7 +2,6 @@ package com.laboon;
 
 public class JavaLife {
 
-<<<<<<< HEAD
     /**
      * This is the main part.
      *
